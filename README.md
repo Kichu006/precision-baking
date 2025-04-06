@@ -1,1 +1,1 @@
-Converts the quantiti in the video into accurate  measurements.
+Converts the quantity in the video into accurate  measurements.
